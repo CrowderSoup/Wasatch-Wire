@@ -1,0 +1,4 @@
+dist/
+candidates.json
+edition.json
+__pycache__/

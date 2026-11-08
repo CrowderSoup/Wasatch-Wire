@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-07",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "stories": [
+    {
+     "title": "No. 3 Utah stays perfect, snaps losing streak to No. 9 BYU",
+     "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/07/live-updates-byu-vs-utah/",
+     "source": "Salt Lake Tribune",
+     "summary": "Devon Dampier accounted for all four Utah touchdowns and the defense picked off Bear Bachmeier four times as the No. 3 Utes beat BYU 28-20 to stay unbeaten and end a three-game rivalry skid.",
+     "also": [
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/sports/utah-utes/utah-snaps-three-game-losing-streak-to-byu-with-28-20-win-over-cougars"
+      },
+      {
+       "source": "KSL",
+       "url": "https://www.ksl.com/article/51644403/no-3-utah-picks-off-bear-bachmeier-twice-in-4th-to-earn-win-over-no-9-byu"
+      }
+     ]
+    },
+    {
+     "title": "Evan Vickers, Mike Schultz to lead Utah’s Legislature after tumultuous midterms",
+     "url": "https://www.kuer.org/politics-government/2026-11-06/2027-utah-legislature-new-gop-leadership-evan-vickers-mike-schultz",
+     "source": "KUER",
+     "summary": "After a bruising midterm cycle, Republican caucuses tapped Sen. Evan Vickers of southern Utah as the next Senate president and Mike Schultz to lead the House; Luz Escamilla returns as Senate minority leader.",
+     "also": [
+      {
+       "source": "Utah News Dispatch",
+       "url": "https://utahnewsdispatch.com/2026/11/06/republicans-pick-evan-vickers-to-be-next-senate-president/"
+      },
+      {
+       "source": "Salt Lake Tribune",
+       "url": "https://www.sltrib.com/news/politics/2026/11/07/utah-republican-lawmakers-choose/"
+      },
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/news/politics/after-the-blue-wave-new-leadership-is-chosen-on-utahs-capitol-hill"
+      }
+     ]
+    },
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "source": "Hacker News",
+     "summary": "Security firm Apiiro reports finding credentials exposed in 1,122 public GitHub files linked to coding agents' saved \"Don't Ask Again\" permissions — a good prompt to check what agent settings files you commit.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "local",
+   "title": "Salt Lake & Utah",
+   "stories": [
+    {
+     "title": "‘It’s not over today’: Real Salt Lake completes an amazing run to reach the MLS playoffs",
+     "url": "https://www.sltrib.com/sports/rsl/2026/11/07/its-not-over-today-real-salt-lake/",
+     "source": "Salt Lake Tribune",
+     "summary": "A 2-1 Decision Day win over the LA Galaxy, plus help from other results, sent Real Salt Lake into the MLS playoffs as the West's final seed — and knocked the Galaxy out.",
+     "also": [
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/sports/real-salt-lake-beats-la-2-1-earning-final-postseason-berth-in-west-while-eliminating-the-galaxy"
+      },
+      {
+       "source": "KSL",
+       "url": "https://www.ksl.com/article/51644496/real-salt-lake-clinches-playoff-berth-with-2-1-win-over-la-galaxy"
+      }
+     ]
+    },
+    {
+     "title": "34-year-old man shot and killed in Salt Lake City’s Granary District",
+     "url": "https://www.sltrib.com/news/2026/11/07/salt-lake-city-shooting-granary/",
+     "source": "Salt Lake Tribune",
+     "summary": "A 34-year-old man was shot and killed Saturday in Salt Lake City's Granary District; police are looking for a suspect who drove off southbound.",
+     "also": [
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/news/local-news/northern-utah/police-seek-suspect-following-fatal-shooting-in-salt-lake-city"
+      },
+      {
+       "source": "KUTV",
+       "url": "https://kutv.com/news/local/police-search-for-homicide-suspect-after-man-killed-in-salt-lake-shooting"
+      }
+     ]
+    },
+    {
+     "title": "Shelter-in-place lifted in Salt Lake after police take barricaded suspect into custody",
+     "url": "https://kutv.com/news/local/shelter-in-place-lifted-in-salt-lake-after-police-take-barricaded-suspect-into-custody",
+     "source": "KUTV",
+     "summary": "A 12-hour shelter-in-place near 900 South and 1900 East ended after a man accused of making threats and firing shots inside a home was taken into custody.",
+     "also": [
+      {
+       "source": "Salt Lake Tribune",
+       "url": "https://www.sltrib.com/news/2026/11/06/amid-salt-lake-city-police/"
+      },
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/news/local-news/salt-lake-city/shelter-in-place-issued-for-salt-lake-city-neighborhood"
+      }
+     ]
+    },
+    {
+     "title": "Utah's only third-party lawmaker trails in bid for full term",
+     "url": "https://www.ksl.com/article/51644487/utahs-only-third-party-lawmaker-trails-in-bid-for-full-term",
+     "source": "KSL",
+     "summary": "Sen. Emily Buss of Eagle Mountain, the Legislature's only third-party member, trails Republican Brooks Benson roughly 49% to 51% in the Senate District 11 count.",
+     "also": []
+    },
+    {
+     "title": "Lake Powell rises more than 21 feet since historic low in mid-September",
+     "url": "https://kutv.com/news/local/lake-powell-rises-more-than-21-feet-since-historic-low-in-mid-september",
+     "source": "KUTV",
+     "summary": "Lake Powell has climbed more than 21 feet since its record low in mid-September, one of the strongest late-season recoveries in years.",
+     "also": [
+      {
+       "source": "FOX 13",
+       "url": "https://www.fox13now.com/news/local-news/southern-utah/what-a-historic-water-surge-at-lake-powell-means-for-the-people-who-depend-on-it"
+      }
+     ]
+    },
+    {
+     "title": "Utah sees big improvement with latest drought map",
+     "url": "https://www.sltrib.com/news/2026/11/07/utah-drought-conditions-improve/",
+     "source": "Salt Lake Tribune",
+     "summary": "Weeks of heavy rain and flooding have sharply improved Utah's drought picture — and even revived the usually dry Gunlock Falls in southwestern Utah.",
+     "also": [
+      {
+       "source": "Salt Lake Tribune",
+       "url": "https://www.sltrib.com/news/environment/2026/11/07/gunlock-falls-return-after-massive/"
+      }
+     ]
+    },
+    {
+     "title": "Quiet weather continues across Utah, with haze building next week",
+     "url": "https://www.fox13now.com/weather/quiet-weather-continues-across-utah-with-haze-building-next-week",
+     "source": "FOX 13",
+     "summary": "Expect a dry, quiet stretch with gradually warming temperatures through next week, though valley haze is likely to build.",
+     "also": [
+      {
+       "source": "KUTV",
+       "url": "https://kutv.com/news/local/utah-temperatures-to-climb-above-seasonal-averages-this-weekend"
+      }
+     ]
+    },
+    {
+     "title": "Sugar House liquor store project paused over neighborhood concerns",
+     "url": "https://www.fox13now.com/news/local-news/salt-lake-city/sugar-house-liquor-store-project-paused-over-neighborhood-concerns",
+     "source": "FOX 13",
+     "summary": "The state has paused a planned Sugar House liquor store after neighbors raised traffic concerns and its proximity to a recovery center.",
+     "also": []
+    },
+    {
+     "title": "Utah suburb eyes ban on chain-link fences to preserve its beauty ‘years, decades, centuries’ down the line",
+     "url": "https://www.sltrib.com/news/2026/11/07/west-valley-city-considers-chain/",
+     "source": "Salt Lake Tribune",
+     "summary": "West Valley City is weighing a ban on new chain-link fences in front yards as a long-term beautification move.",
+     "also": []
+    },
+    {
+     "title": "Secret drug lab discovered in crawl space of Saratoga Springs home",
+     "url": "https://www.fox13now.com/news/local-news/utah-county/secret-drug-lab-discovered-in-crawl-space-of-saratoga-springs-home",
+     "source": "FOX 13",
+     "summary": "Five people were arrested after investigators found a hidden lab in the crawl space of a Saratoga Springs townhome, allegedly used to make synthetic cathinones.",
+     "also": [
+      {
+       "source": "KUTV",
+       "url": "https://kutv.com/news/local/hidden-drug-lab-found-operating-in-saratoga-springs-townhome-crawl-space"
+      }
+     ]
+    },
+    {
+     "title": "Utah Royals stun the San Diego Wave in NWSL playoffs",
+     "url": "https://www.sltrib.com/sports/2026/11/06/utah-royals-stun-san-diego-wave/",
+     "source": "Salt Lake Tribune",
+     "summary": "In the first NWSL playoff game in club history, the Utah Royals upset the San Diego Wave 1-0.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech",
+   "stories": [
+    {
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "url": "https://hunch.net/?p=13764006",
+     "source": "Hacker News",
+     "summary": "A post on hunch.net about Microsoft Research winding down its AI Frontiers group sparked a big discussion about the state of corporate research labs.",
+     "also": []
+    },
+    {
+     "title": "Every Mac comes with an (undocumented) family member classifier",
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "source": "Hacker News",
+     "summary": "A look inside Apple Intelligence's on-device personal knowledge graph, including an undocumented classifier that labels which contacts are family.",
+     "also": []
+    },
+    {
+     "title": "Alpine Linux : openssh-server password authentication bypass",
+     "url": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "source": "Lobsters",
+     "summary": "Alpine Linux disclosed a password-authentication bypass in its openssh-server package — patch any Alpine-based images that run sshd.",
+     "also": []
+    },
+    {
+     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+     "source": "The Verge",
+     "summary": "A new METR report on Anthropic using its own models to accelerate AI development, with models reportedly improving about twice as fast as a year ago, is unsettling some researchers.",
+     "also": []
+    },
+    {
+     "title": "The US let Nvidia sell chips to an empty office in China",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+     "source": "The Verge",
+     "summary": "Reporting suggests at least one Chinese firm cleared to receive Nvidia H200 chips listed an empty office, raising questions about Commerce Department and Nvidia vetting.",
+     "also": []
+    },
+    {
+     "title": "What I run on my $10 USD OpenStick homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "source": "Hacker News",
+     "summary": "A tour of what one person runs on a $10 OpenStick — a cheap LTE dongle repurposed as a tiny Linux server.",
+     "also": []
+    },
+    {
+     "title": "Running a law firm on Free software",
+     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+     "source": "Hacker News",
+     "summary": "A UK tech law firm's 2026 update on running the whole practice on free and open-source software.",
+     "also": []
+    },
+    {
+     "title": "Asahi Linux Progress Linux 7.3",
+     "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+     "source": "Hacker News",
+     "summary": "The Asahi Linux team's progress report for Linux 7.3 on Apple Silicon Macs.",
+     "also": []
+    },
+    {
+     "title": "Workflow dependency lockfiles",
+     "url": "https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles",
+     "source": "Lobsters",
+     "summary": "GitHub documents workflow dependency lockfiles for Actions, a way to pin the actions your workflows pull in.",
+     "also": []
+    },
+    {
+     "title": "Good riddance, Cybertruck!",
+     "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+     "source": "The Verge",
+     "summary": "Elon Musk says Tesla will wind down Cybertruck production next year to make room for the Cybercab.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "dev",
+   "title": "Dev Corner",
+   "stories": [
+    {
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "source": "The Go Blog",
+     "summary": "Go 1.27 ships encoding/json/v2 and encoding/json/jsontext as stable packages; the Go team walks through the new API and migration.",
+     "also": [
+      {
+       "source": "Golang Weekly",
+       "url": "https://golangweekly.com/issues/623"
+      }
+     ]
+    },
+    {
+     "title": "Django security releases issued: 6.1.3, 6.0.10, and 5.2.19",
+     "url": "https://www.djangoproject.com/weblog/2026/nov/03/security-releases/",
+     "source": "Django",
+     "summary": "Django 6.1.3, 6.0.10 and 5.2.19 fix six CVEs, three of them in GeoDjango — upgrade soon.",
+     "also": [
+      {
+       "source": "Django News",
+       "url": "https://django-news.com/archive/issue-362-django-613-6010-and-5219-security/"
+      }
+     ]
+    },
+    {
+     "title": "Two Dimensional Version Control",
+     "url": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
+     "source": "Lobsters",
+     "summary": "Red Blob Games writes up its experience moving to Jujutsu (jj) and how it changes the way you think about version control.",
+     "also": []
+    },
+    {
+     "title": "If in doubt, delete the uv.lock file",
+     "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+     "source": "Simon Willison",
+     "summary": "Simon Willison's rule of thumb for confusing dependency errors since moving to Python 3.15: when in doubt, delete uv.lock and re-resolve.",
+     "also": []
+    },
+    {
+     "title": "llm 0.37",
+     "url": "https://simonwillison.net/2026/Nov/2/llm/",
+     "source": "Simon Willison",
+     "summary": "A big release of the llm CLI and Python library, rolling up about two months of features and fixes plus new model support.",
+     "also": []
+    },
+    {
+     "title": "datasette-agent 0.5a0",
+     "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+     "source": "Simon Willison",
+     "summary": "Datasette Agent adds a \"panel\" that keeps the agent chat docked beside Datasette pages as you browse.",
+     "also": []
+    }
+   ]
+  }
+ ]
+}

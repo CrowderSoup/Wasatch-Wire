@@ -1,0 +1,29 @@
+{
+  "site_url": "https://crowdersoup.vpages.site/wasatch-wire",
+  "sections": [
+    {"id": "local", "title": "Salt Lake & Utah", "max_age_hours": 30, "feeds": [
+      {"name": "KSL", "url": "https://www.ksl.com/rss/news"},
+      {"name": "Salt Lake Tribune", "url": "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml"},
+      {"name": "Deseret News", "url": "https://www.deseret.com/arc/outboundfeeds/rss/category/utah/?outputType=xml"},
+      {"name": "Utah News Dispatch", "url": "https://utahnewsdispatch.com/feed/"},
+      {"name": "KUER", "url": "https://www.kuer.org/news.rss"},
+      {"name": "FOX 13", "url": "https://www.fox13now.com/news/local-news.rss"},
+      {"name": "KUTV", "url": "https://kutv.com/news/local.rss"}
+    ]},
+    {"id": "tech", "title": "Tech", "max_age_hours": 30, "feeds": [
+      {"name": "Hacker News", "url": "https://hnrss.org/frontpage?points=150", "community": true},
+      {"name": "Lobsters", "url": "https://lobste.rs/rss", "community": true},
+      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+      {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+      {"name": "404 Media", "url": "https://www.404media.co/rss/"}
+    ]},
+    {"id": "dev", "title": "Dev Corner", "max_age_hours": 168, "feeds": [
+      {"name": "The Go Blog", "url": "https://go.dev/blog/feed.atom"},
+      {"name": "Golang Weekly", "url": "https://golangweekly.com/rss"},
+      {"name": "Django", "url": "https://www.djangoproject.com/rss/weblog/"},
+      {"name": "Django News", "url": "https://django-news.com/issues.rss"},
+      {"name": "Python Insider", "url": "https://blog.python.org/feeds/posts/default"},
+      {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/"}
+    ]}
+  ]
+}
