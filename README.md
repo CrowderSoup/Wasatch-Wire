@@ -11,3 +11,7 @@ A Claude scheduled task runs every morning (5:33am MT):
 4. `dist/` is patch-published to vPages; the edition JSON is committed to `editions/`.
 
 Edit `src/feeds.json` to change sources and `src/CURATION.md` to change editorial taste.
+
+## License
+
+Code is MIT licensed — see [LICENSE](LICENSE). Linked articles and their headlines belong to their respective publishers.
